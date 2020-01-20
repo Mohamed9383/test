@@ -1,0 +1,15 @@
+.card-list{
+  float: left;
+  width: 210px;
+  margin: 5px;
+}
+.image-box{
+  border-radius: 50%;
+}
+.profileDetail{
+  border:1px solid #000;
+  margin: 10px;
+}
+.profilePost{
+  display: flex;
+}
